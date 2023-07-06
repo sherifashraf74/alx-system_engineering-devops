@@ -1,3 +1,4 @@
-#!/bon/bash
-cd~
+#!/bin/bash
+cd ~
+
 
